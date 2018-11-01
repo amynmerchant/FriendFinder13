@@ -1,0 +1,27 @@
+{
+  "name": "FriendFinder13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amynmerchant/FriendFinder13.git"
+  },
+  "keywords": [],
+  "author": "Amyn Merchant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amynmerchant/FriendFinder13/issues"
+  },
+  "homepage": "https://github.com/amynmerchant/FriendFinder13#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "path": "^0.12.7",
+    "ejs":"2.4.1"
+  }
+}
